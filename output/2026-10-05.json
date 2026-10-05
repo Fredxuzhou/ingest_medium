@@ -1,0 +1,842 @@
+[
+  {
+    "topic": "AI",
+    "title": "Why Enterprise TA Teams Are Moving From AI-Assisted to AI-Native Recruiting",
+    "url": "https://medium.com/@platinustech/why-enterprise-ta-teams-are-moving-from-ai-assisted-to-ai-native-recruiting-834f77eb72dc?source=rss------artificial_intelligence-5",
+    "summary": "88% of HR leaders say their organization hasn’t seen significant business value from AI tools yet — even as the average enterprise runs… Continue reading on Medium »",
+    "published": "2026-10-05T20:48:20"
+  },
+  {
+    "topic": "AI",
+    "title": "Why I Started Making Visual Knowledge Maps",
+    "url": "https://medium.com/@epsteinatlas.research/why-i-started-making-visual-knowledge-maps-c0388cd76b67?source=rss------artificial_intelligence-5",
+    "summary": "For a long time I wanted to create educational work that made complex ideas easier to see and understand. Continue reading on Medium »",
+    "published": "2026-10-05T20:47:39"
+  },
+  {
+    "topic": "AI",
+    "title": "Why You Need to Hire an AI Implementation Consultant for Small Local Businesses",
+    "url": "https://medium.com/@SolosolveAi_/why-you-need-to-hire-an-ai-implementation-consultant-for-small-local-businesses-ac41d952a191?source=rss------artificial_intelligence-5",
+    "summary": "Most small business owners treat artificial intelligence like a shiny new toy. They test a few chatbot prompts, realize it doesn’t… Continue reading on Medium »",
+    "published": "2026-10-05T20:45:54"
+  },
+  {
+    "topic": "AI",
+    "title": "Mastercard, AI Agents and Who Gets Paid",
+    "url": "https://medium.com/@mohsinabdulqadir/mastercard-ai-agents-and-who-gets-paid-306a2b32a5ca?source=rss------artificial_intelligence-5",
+    "summary": "I spent an afternoon at Mastercard’s AI Innovation Centre with my Chicago Booth cohort. Continue reading on Medium »",
+    "published": "2026-10-05T20:42:13"
+  },
+  {
+    "topic": "AI",
+    "title": "How to Get Great Profile Photos with AI — Without Writing a Single Prompt",
+    "url": "https://medium.com/@TrueGreedyArt/how-to-get-great-profile-photos-with-ai-without-writing-a-single-prompt-be30f8e563ea?source=rss------artificial_intelligence-5",
+    "summary": "Pick a ready-made look, upload one selfie, get the result in about a minute. Continue reading on Medium »",
+    "published": "2026-10-05T20:41:56"
+  },
+  {
+    "topic": "LLM",
+    "title": "I asked Databricks’ ai_decide “Land or water?” 64,800 times",
+    "url": "https://medium.com/@sudhir.gajre/i-asked-databricks-ai-decide-land-or-water-64-800-times-d80150fbca48?source=rss------llm-5",
+    "summary": "By Sudhir Gajre, Head of GenAI at Lovelytics and Databricks AI MVP Continue reading on Medium »",
+    "published": "2026-10-05T20:31:01"
+  },
+  {
+    "topic": "LLM",
+    "title": "I Made an AI Fill Out a CRM Form So a Human Never Has To",
+    "url": "https://medium.com/@kanchan.chowdhary95/i-made-an-ai-fill-out-a-crm-form-so-a-human-never-has-to-45703d0031a6?source=rss------llm-5",
+    "summary": "A LangGraph agent that turns a sales rep’s quick chat message into a filled-in pharma CRM record Continue reading on Medium »",
+    "published": "2026-10-05T20:29:15"
+  },
+  {
+    "topic": "LLM",
+    "title": "I Built a Mini GPT from Scratch in PyTorch —I",
+    "url": "https://medium.com/@ankitraj765489/i-built-a-mini-gpt-from-scratch-in-pytorch-heres-everything-i-learned-ea42494decb0?source=rss------llm-5",
+    "summary": "Demystifying tokenization, causal self-attention, residual streams, and autoregressive generation without relying on black-box libraries. Continue reading on Medium »",
+    "published": "2026-10-05T20:21:16"
+  },
+  {
+    "topic": "LLM",
+    "title": "AI Daily Digest: Universal Modder Packages Agent Skills With Safety Controls — October 5, 2026",
+    "url": "https://medium.com/@provenance_report/ai-daily-digest-universal-modder-packages-agent-skills-with-safety-controls-october-5-2026-ee892dcbd0a0?source=rss------llm-5",
+    "summary": "Universal Modder is a useful test of a broader agent-engineering pattern: package domain instructions, reversible actions, evidence… Continue reading on Medium »",
+    "published": "2026-10-05T20:16:58"
+  },
+  {
+    "topic": "LLM",
+    "title": "A 125-Billion-Parameter AI Model Now runs on a Gaming GPU.",
+    "url": "https://medium.com/@bhavnani.anish/a-125-billion-parameter-ai-model-now-runs-on-a-gaming-gpu-b55052261d69?source=rss------llm-5",
+    "summary": "An open source engine called Strata just fit a frontier-sized model onto a card you can buy at an electronics store. Continue reading on Medium »",
+    "published": "2026-10-05T20:10:32"
+  },
+  {
+    "topic": "Claude",
+    "title": "Turn One Claude Chat Into a Brief and a Slide Deck",
+    "url": "https://medium.com/@vinay221097/turn-one-claude-chat-into-a-brief-and-a-slide-deck-dc66364eebc1?source=rss------claude_ai-5",
+    "summary": "Claude Docs and Claude Slides now live inside the conversation. Here’s the exact prompt chain. Continue reading on Medium »",
+    "published": "2026-10-05T15:22:00"
+  },
+  {
+    "topic": "Claude",
+    "title": "Claude Now Has Its Own Browser. Check This Setting First.",
+    "url": "https://medium.com/@vinay221097/claude-now-has-its-own-browser-check-this-setting-first-bb6371862c4e?source=rss------claude_ai-5",
+    "summary": "Built-in browsing means no Chrome extension — and a cookie-import prompt you should not sleepwalk through. Continue reading on Medium »",
+    "published": "2026-10-05T15:11:51"
+  },
+  {
+    "topic": "Claude",
+    "title": "Stop Using AI Wrong: 7 Claude & ChatGPT Tricks That Change Everything",
+    "url": "https://medium.com/@rosenms/stop-using-ai-wrong-7-claude-chatgpt-tricks-that-change-everything-7e86c40899f5?source=rss------claude_ai-5",
+    "summary": "Seven simple habits that turn generic AI answers into work you can actually use. Continue reading on Medium »",
+    "published": "2026-10-05T14:56:36"
+  },
+  {
+    "topic": "Claude",
+    "title": "MCP in Practice, Part 3: Building Your Own Custom MCP Server",
+    "url": "https://medium.com/@cskumara2000/mcp-in-practice-part-3-building-your-own-custom-mcp-server-deebcdc007f1?source=rss------claude_ai-5",
+    "summary": "Parts 1 and 2 covered using MCP servers other people built Playwright, filesystem, and so on. This part covers the next step: building… Continue reading on Medium »",
+    "published": "2026-10-05T12:35:30"
+  },
+  {
+    "topic": "Claude",
+    "title": "The New AI Arms Race: GPT-6 Astra Takes On Claude Opus 5.5",
+    "url": "https://medium.com/skillstuff/the-new-ai-arms-race-gpt-6-astra-takes-on-claude-opus-5-5-d4f6ef7a803c?source=rss------claude_ai-5",
+    "summary": "Two companies. Two flagship models. Three weeks apart. And a battle that tells us exactly where AI is headed. Continue reading on Skill Stuff »",
+    "published": "2026-10-05T04:08:49"
+  },
+  {
+    "topic": "ChatGPT",
+    "title": "Why “Delete Chat” Does Not Mean What You Think It Means",
+    "url": "https://pub.towardsai.net/why-delete-chat-does-not-mean-what-you-think-it-means-be834a18e8b5?source=rss------chatgpt-5",
+    "summary": "Picture this. You paste a salary offer, a client email, or a health worry into an AI chatbot. A minute later, you change your mind and hit… Continue reading on Towards AI »",
+    "published": "2026-10-05T20:14:24"
+  },
+  {
+    "topic": "ChatGPT",
+    "title": "#047 — Let’s discuss AI!",
+    "url": "https://medium.com/@peternunes/047-lets-discuss-ai-d967199cf866?source=rss------chatgpt-5",
+    "summary": "ChatGPT was the hottest product launch ever, OpenAI got to 1 Billion users in a month. ChatGPT Natural Language Processing’s Machine… Continue reading on Medium »",
+    "published": "2026-10-05T20:05:42"
+  },
+  {
+    "topic": "ChatGPT",
+    "title": "medir Share of Voice",
+    "url": "https://medium.com/@bestsolution/medir-share-of-voice-34cbc666f205?source=rss------chatgpt-5",
+    "summary": "En Best Solution desarrollamos un benchmark de Share of Voice en IA para medir con qué frecuencia una marca aparece cuando potenciales… Continue reading on Medium »",
+    "published": "2026-10-05T19:50:56"
+  },
+  {
+    "topic": "ChatGPT",
+    "title": "Why Long-Form Content Is Dying (And How Short-Form AI Is Taking Over)",
+    "url": "https://medium.com/@dailyshorts668/why-long-form-content-is-dying-and-how-short-form-ai-is-taking-over-677ca486e5ff?source=rss------chatgpt-5",
+    "summary": "Consumer attention spans have shifted permanently. Across YouTube, Instagram, and TikTok, short-form vertical video has become the primary… Continue reading on Medium »",
+    "published": "2026-10-05T19:16:23"
+  },
+  {
+    "topic": "ChatGPT",
+    "title": "How We Generated 500,000+ Views in 30 Days Using AI-Generated Shorts",
+    "url": "https://medium.com/@dailyshorts668/how-we-generated-500-000-views-in-30-days-using-ai-generated-shorts-7a926a2e0fa9?source=rss------chatgpt-5",
+    "summary": "Consistently publishing short-form video is the single most effective growth lever on the internet today. But when we set out to post… Continue reading on Medium »",
+    "published": "2026-10-05T19:14:32"
+  },
+  {
+    "topic": "Gemini",
+    "title": "From a 2 AM Thought to a Fully Visualized Brand in Minutes: https://youtube.com/shorts/vtp8GJb2vl",
+    "url": "https://medium.com/@nandhakumarmurugan/from-a-2-am-thought-to-a-fully-visualized-brand-in-minutes-https-youtube-com-shorts-vtp8gjb2vl-aed6e79ef7fa?source=rss------google_gemini-5",
+    "summary": "How I used Google Gemini and AI to build a startup concept in one sitting. Continue reading on Medium »",
+    "published": "2026-10-05T19:14:56"
+  },
+  {
+    "topic": "Gemini",
+    "title": "Free Gemini Is About to Get a Lot Smaller",
+    "url": "https://medium.com/@vinay221097/free-gemini-is-about-to-get-a-lot-smaller-2fcd91ba2d16?source=rss------google_gemini-5",
+    "summary": "On October 9, free users keep Flash-Lite and lose Flash and Pro. Here’s what that actually means — and what to do this week. Continue reading on Medium »",
+    "published": "2026-10-05T15:05:50"
+  },
+  {
+    "topic": "Gemini",
+    "title": "EJB, Spring, Kubernetes: The Java History Behind Claude Code Mods and DeepSeek Harness",
+    "url": "https://medium.com/@GenerationAI/ejb-spring-kubernetes-the-java-history-behind-claude-code-mods-and-deepseek-harness-38e85fa2e5f8?source=rss------google_gemini-5",
+    "summary": "Who owns the extension points, and where the container boundary sits — from stateless session beans to Claude Code plugins, DeepSeek… Continue reading on Medium »",
+    "published": "2026-10-05T14:20:20"
+  },
+  {
+    "topic": "Gemini",
+    "title": "How to Make Longer AI Videos with Gemini Omni Flash Extend",
+    "url": "https://medium.com/alex-tucker-digital/how-to-make-longer-ai-videos-with-gemini-omni-flash-extend-955b6caf9c05?source=rss------google_gemini-5",
+    "summary": "Turning prompts into longform video has never been faster Continue reading on Alex Tucker Digital »",
+    "published": "2026-10-05T13:11:01"
+  },
+  {
+    "topic": "Gemini",
+    "title": "What Is Gemini 4 Argon? 1M-Token Output & Why It Matters",
+    "url": "https://medium.com/@synfinitydynamics/what-is-gemini-4-argon-1m-token-output-why-it-matters-82038a2acb50?source=rss------google_gemini-5",
+    "summary": "What is Gemini 4 Argon? It is Google DeepMind’s newest frontier AI model, and its biggest headline is simple: it can write up to 1 million… Continue reading on Medium »",
+    "published": "2026-10-05T12:26:41"
+  },
+  {
+    "topic": "Architecture",
+    "title": "Web Backend Development with Go (like pro)",
+    "url": "https://medium.com/@thecoderian.dev/web-backend-development-with-go-like-pro-925dff3fca54?source=rss------software_architecture-5",
+    "summary": "First of all, we need to stop using frameworks. Yes, we need to stop using frameworks, because the standard library (net/http) is very… Continue reading on Medium »",
+    "published": "2026-10-05T20:12:28"
+  },
+  {
+    "topic": "Architecture",
+    "title": "Challenges of Modernizing Legacy Applications for Small Businesses",
+    "url": "https://developerpartners.medium.com/challenges-of-modernizing-legacy-applications-for-small-businesses-acb6b9194e4f?source=rss------software_architecture-5",
+    "summary": "A legacy application can be a strange thing for a small business. It may look old. It may be difficult to maintain. The developers who… Continue reading on Medium »",
+    "published": "2026-10-05T19:57:56"
+  },
+  {
+    "topic": "Architecture",
+    "title": "Understanding Software Architectures in 2026 for noobs: 01 Layered Architecture Pattern + famous…",
+    "url": "https://medium.com/@dhruvrajput757/understanding-software-architectures-2026-for-noobs-01-layered-architecture-pattern-famous-0aca4dcfe437?source=rss------software_architecture-5",
+    "summary": "This is part of a series on understanding software architectures and what is used under the hood. Continue reading on Medium »",
+    "published": "2026-10-05T19:26:37"
+  },
+  {
+    "topic": "Architecture",
+    "title": "Why “One Class, One Job” Is a Bad Explanation of SRP",
+    "url": "https://medium.com/skillstuff/why-one-class-one-job-is-a-bad-explanation-of-srp-b87b85f303de?source=rss------software_architecture-5",
+    "summary": "SRP is not a rule about making every class tiny. It is about keeping independent reasons for change from becoming tangled inside the same… Continue reading on Skill Stuff »",
+    "published": "2026-10-05T19:26:06"
+  },
+  {
+    "topic": "Architecture",
+    "title": "06. Vector Search — Similarity Retrieval with Chroma DB",
+    "url": "https://cleverzone.medium.com/06-vector-search-similarity-retrieval-with-chroma-db-17ab3cba53aa?source=rss------software_architecture-5",
+    "summary": "Once document chunks are converted into numerical vector embeddings, they must be stored in a database optimized for high-speed… Continue reading on Medium »",
+    "published": "2026-10-05T19:24:43"
+  },
+  {
+    "topic": "Crypto",
+    "title": "A Screenshot Is Not a Transaction: Build a Crypto Evidence File That Can Be Checked",
+    "url": "https://lostcoinrescue.medium.com/a-screenshot-is-not-a-transaction-build-a-crypto-evidence-file-that-can-be-checked-fd02ea0558bf?source=rss------cryptocurrency-5",
+    "summary": "A platform balance, a payment receipt and a conversation can all matter after a suspected investment scam. But they do not establish the… Continue reading on Medium »",
+    "published": "2026-10-05T20:36:27"
+  },
+  {
+    "topic": "Crypto",
+    "title": "# The Mathematics of Order-Book Depth: Why Most Arbitrage Formulas Are Flawed",
+    "url": "https://medium.com/@londowww/the-mathematics-of-order-book-depth-why-most-arbitrage-formulas-are-flawed-0f72b09952e5?source=rss------cryptocurrency-5",
+    "summary": "By Serhii Rohovskyi Founder & Lead Systems Architect at CWG Chain Continue reading on Medium »",
+    "published": "2026-10-05T20:01:58"
+  },
+  {
+    "topic": "Crypto",
+    "title": "Why I Wait for the Retest Before I Trust a Crypto Breakout",
+    "url": "https://medium.com/@stockmoe/why-i-wait-for-the-retest-before-i-trust-a-crypto-breakout-aad8ae8540e2?source=rss------cryptocurrency-5",
+    "summary": "Every time a chart rips higher, my inbox fills up with the same question. Is this the God candle? Is this the one that never looks back… Continue reading on Medium »",
+    "published": "2026-10-05T20:01:50"
+  },
+  {
+    "topic": "Crypto",
+    "title": "Compounding Is Math, Not Magic.",
+    "url": "https://medium.com/@CompdProtocol/compounding-is-math-not-magic-40f6baa4c69a?source=rss------cryptocurrency-5",
+    "summary": "Behind COMPD, there’s no magic. there’s Math. Continue reading on Medium »",
+    "published": "2026-10-05T19:58:41"
+  },
+  {
+    "topic": "Crypto",
+    "title": "Rewriting the Rules of Scalping: Why I Engineered CWG Chain from the Edge",
+    "url": "https://medium.com/@londowww/rewriting-the-rules-of-scalping-why-i-engineered-cwg-chain-from-the-edge-c95d22f8a1e0?source=rss------cryptocurrency-5",
+    "summary": "By Serhii Rohovskyi Founder & Architect of CWG Chain Continue reading on Medium »",
+    "published": "2026-10-05T19:54:34"
+  },
+  {
+    "topic": "BTC",
+    "title": "AI in Financial Markets: Who Is Responsible When the Algorithm Gets It Wrong?",
+    "url": "https://medium.com/@samuelayodeji/ai-in-financial-markets-who-is-responsible-when-the-algorithm-gets-it-wrong-30b00a459feb?source=rss------bitcoin-5",
+    "summary": "Who is accountable when AI makes financial decisions, how regulators are responding, and the questions every firm should ask. Continue reading on Medium »",
+    "published": "2026-10-05T20:37:22"
+  },
+  {
+    "topic": "BTC",
+    "title": "Dollar Hits 18-Month High as Banks Sue to Keep Crypto Out of the System",
+    "url": "https://medium.com/@shival.patel/dollar-hits-18-month-high-as-banks-sue-to-keep-crypto-out-of-the-system-1ed0b6f14095?source=rss------bitcoin-5",
+    "summary": "The U.S. dollar has got to be that friend who disappears for a while, then shows back up like they never left, and somehow everyone just…… Continue reading on Medium »",
+    "published": "2026-10-05T19:35:55"
+  },
+  {
+    "topic": "BTC",
+    "title": "What should I do after losing Bitcoin to a scam?",
+    "url": "https://medium.com/@codycooleyf611r/what-should-i-do-after-losing-bitcoin-to-a-scam-6ab4d6045a58?source=rss------bitcoin-5",
+    "summary": "What should I do after losing Bitcoin to a scam? Continue reading on Medium »",
+    "published": "2026-10-05T19:27:22"
+  },
+  {
+    "topic": "BTC",
+    "title": "Mineração de Bitcoin é trabalho produtivo? Uma análise conceitual",
+    "url": "https://medium.com/@btcparaopovo/minera%C3%A7%C3%A3o-de-bitcoin-%C3%A9-trabalho-produtivo-uma-an%C3%A1lise-conceitual-2bd92e98b63f?source=rss------bitcoin-5",
+    "summary": "Continue reading on Medium »",
+    "published": "2026-10-05T19:26:02"
+  },
+  {
+    "topic": "BTC",
+    "title": "How do I recover Bitcoin lost to a scammer?",
+    "url": "https://medium.com/@josephaparra8lsj5/how-do-i-recover-bitcoin-lost-to-a-scammer-12852ab7fa9d?source=rss------bitcoin-5",
+    "summary": "How do I recover Bitcoin lost to a scammer? Continue reading on Medium »",
+    "published": "2026-10-05T19:18:59"
+  },
+  {
+    "topic": "Programming",
+    "title": "10 Modern Open-Source Tools Backend Developers Should Try in 2026",
+    "url": "https://medium.com/@developeryusuf/10-modern-open-source-tools-backend-developers-should-try-in-2026-ecad59ece693?source=rss------programming-5",
+    "summary": "Practical tools for inspecting APIs, reading logs, testing failures, and finding out what your application is actually doing. Continue reading on Medium »",
+    "published": "2026-10-05T20:36:01"
+  },
+  {
+    "topic": "Programming",
+    "title": "Rewrite It in Rust? The Answer Is Still No (Most of the Time)",
+    "url": "https://medium.com/rustaceans/rewrite-it-in-rust-the-answer-is-still-no-most-of-the-time-1b8dd4d61f94?source=rss------programming-5",
+    "summary": "I’ve watched the rewrite it in Rust chorus swell and then settle into something more sober. Continue reading on Rustaceans »",
+    "published": "2026-10-05T20:27:02"
+  },
+  {
+    "topic": "Programming",
+    "title": "Help Scout’s Own Redirects Eat 84 Internal Links — the Highest Count Yet in This Series.",
+    "url": "https://medium.com/@outreach_59700/help-scouts-own-redirects-eat-84-internal-links-the-highest-count-yet-in-this-series-e638ab618b5b?source=rss------programming-5",
+    "summary": "Next round of the site-crawl series: ran the free RankForge crawler against five helpdesk/support platforms — zendesk.com, intercom.com… Continue reading on Medium »",
+    "published": "2026-10-05T20:24:14"
+  },
+  {
+    "topic": "Programming",
+    "title": "How to Split a Feature Across AI Agents Without Losing the Afternoon",
+    "url": "https://emredurukn.medium.com/how-to-split-a-feature-across-ai-agents-without-losing-the-afternoon-7eab6ee051cb?source=rss------programming-5",
+    "summary": "How to split a feature across AI agents without spending the afternoon reconciling their work. Continue reading on Medium »",
+    "published": "2026-10-05T20:20:24"
+  },
+  {
+    "topic": "Programming",
+    "title": "Working With Code You Are Afraid to Change",
+    "url": "https://liu-111.medium.com/working-with-code-you-are-afraid-to-change-5776c0d141d9?source=rss------programming-5",
+    "summary": "Hi everyone, welcome back. Today, I will be going over legacy code — how to change it safely, and why the instinct everyone has about it… Continue reading on Medium »",
+    "published": "2026-10-05T20:19:13"
+  },
+  {
+    "topic": "Python",
+    "title": "I Made an AI Fill Out a CRM Form So a Human Never Has To",
+    "url": "https://medium.com/@kanchan.chowdhary95/i-made-an-ai-fill-out-a-crm-form-so-a-human-never-has-to-45703d0031a6?source=rss------python-5",
+    "summary": "A LangGraph agent that turns a sales rep’s quick chat message into a filled-in pharma CRM record Continue reading on Medium »",
+    "published": "2026-10-05T20:29:15"
+  },
+  {
+    "topic": "Python",
+    "title": "LeetCode 856: Stack It, Score It | Score of Parentheses",
+    "url": "https://medium.com/@everythingguy007/leetcode-856-stack-it-score-it-score-of-parentheses-69c5ef5883b5?source=rss------python-5",
+    "summary": "Problem Continue reading on Medium »",
+    "published": "2026-10-05T20:28:56"
+  },
+  {
+    "topic": "Python",
+    "title": "I Automated DaVinci Resolve’s AI Voice Generator So I Could Stop Copy-Pasting Narration",
+    "url": "https://medium.com/@atomik.factory/i-automated-davinci-resolves-ai-voice-generator-so-i-could-stop-copy-pasting-narration-12bea2193257?source=rss------python-5",
+    "summary": "DaVinci Resolve Studio already has a good local AI voice generator. I built a Python script that turns an entire narration file into… Continue reading on Medium »",
+    "published": "2026-10-05T20:16:42"
+  },
+  {
+    "topic": "Python",
+    "title": "Extracting Information from Unstructured Text with Python;",
+    "url": "https://medium.com/@beastxgaming6/extracting-information-from-unstructured-text-with-python-89d254f48046?source=rss------python-5",
+    "summary": "Extracting Information from Unstructured Text with Python Continue reading on Medium »",
+    "published": "2026-10-05T20:14:59"
+  },
+  {
+    "topic": "Python",
+    "title": "Rounding as the Limit of a Smooth Flow",
+    "url": "https://medium.com/@ratwolf/rounding-as-the-limit-of-a-smooth-flow-dc0c22fb9072?source=rss------python-5",
+    "summary": "An exactly solvable flow takes the real line to the integers through smooth bijections, and shows exactly how, and how slowly… Continue reading on Medium »",
+    "published": "2026-10-05T20:04:02"
+  },
+  {
+    "topic": "JavaScript",
+    "title": "I built an Instagram Reels feed in React Native. Here’s what broke.",
+    "url": "https://arbab-io.medium.com/building-instagram-reels-style-video-feeds-in-react-native-with-reels-kit-14a469900f86?source=rss------javascript-5",
+    "summary": "An open-source React Native toolkit for vertical video feeds: snap paging, bounded video players, tap and scrub gestures, and pluggable… Continue reading on Medium »",
+    "published": "2026-10-05T20:31:53"
+  },
+  {
+    "topic": "JavaScript",
+    "title": "Most React Developers Are Managing Server State and Client State the Same Way.",
+    "url": "https://javascript.plainenglish.io/most-react-developers-are-managing-server-state-and-client-state-the-same-way-2fcaac18ae4d?source=rss------javascript-5",
+    "summary": "You have a Zustand store. Inside it, there’s `user`, `posts`, `notifications`, `sidebarOpen`, `theme`, and `cartItems`. Continue reading on JavaScript in Plain English »",
+    "published": "2026-10-05T19:45:38"
+  },
+  {
+    "topic": "JavaScript",
+    "title": "You’ve Been Using setTimeout to Animate Elements Into the DOM. CSS Has a Native Fix.",
+    "url": "https://blog.stackademic.com/youve-been-using-settimeout-to-animate-elements-into-the-dom-css-has-a-native-fix-50d7930eebbc?source=rss------javascript-5",
+    "summary": "The double-requestAnimationFrame trick. The zero-millisecond setTimeout. Continue reading on Stackademic »",
+    "published": "2026-10-05T19:33:40"
+  },
+  {
+    "topic": "JavaScript",
+    "title": "Web + AI: How Artificial Intelligence is Redefining Modern Web Development",
+    "url": "https://medium.com/@muhammadsajjad1328/web-ai-how-artificial-intelligence-is-redefining-modern-web-development-85b8adf3a036?source=rss------javascript-5",
+    "summary": "Subtitle Continue reading on Medium »",
+    "published": "2026-10-05T18:40:14"
+  },
+  {
+    "topic": "JavaScript",
+    "title": "Hidupku Dimulai dari Sebuah Desa\nHidupku mungkin bisa dibilang sederhana.",
+    "url": "https://medium.com/@askukoh/hidupku-dimulai-dari-sebuah-desa-hidupku-mungkin-bisa-dibilang-sederhana-ab6237ccaa1d?source=rss------javascript-5",
+    "summary": "Boleh kah aku cerito neng kene karena hidupku gak pernah ono sik mendengarkan . Continue reading on Medium »",
+    "published": "2026-10-05T18:02:14"
+  },
+  {
+    "topic": "DevOps",
+    "title": "DevUtilityKits: Online Developer Tools for Web Development and Everyday Tasks",
+    "url": "https://krypton77.medium.com/devutilitykits-online-developer-tools-for-web-development-and-everyday-tasks-67434f92ad43?source=rss------devops-5",
+    "summary": "Modern web development involves much more than writing HTML, CSS, and JavaScript. Continue reading on Medium »",
+    "published": "2026-10-05T20:51:01"
+  },
+  {
+    "topic": "DevOps",
+    "title": "An $18,000 AWS bill that should have been $12,000",
+    "url": "https://medium.com/@1vladislavzhigulin/an-18-000-aws-bill-that-should-have-been-12-000-78c5629a79bc?source=rss------devops-5",
+    "summary": "The second account I want to talk about was a different kind of problem Continue reading on Medium »",
+    "published": "2026-10-05T20:40:20"
+  },
+  {
+    "topic": "DevOps",
+    "title": "10 Modern Open-Source Tools Backend Developers Should Try in 2026",
+    "url": "https://medium.com/@developeryusuf/10-modern-open-source-tools-backend-developers-should-try-in-2026-ecad59ece693?source=rss------devops-5",
+    "summary": "Practical tools for inspecting APIs, reading logs, testing failures, and finding out what your application is actually doing. Continue reading on Medium »",
+    "published": "2026-10-05T20:36:01"
+  },
+  {
+    "topic": "DevOps",
+    "title": "Building a Unified Observability Platform on GreptimeDB: A Reference Architecture",
+    "url": "https://blog.devops.dev/building-a-unified-observability-platform-on-greptimedb-a-reference-architecture-35c754365411?source=rss------devops-5",
+    "summary": "This article assumes you have already decided to put metrics, logs, and traces into one database. Continue reading on DevOps.dev »",
+    "published": "2026-10-05T20:11:01"
+  },
+  {
+    "topic": "DevOps",
+    "title": "Day 16 of the Kubernetes Learning Series: Horizontal and Vertical Pod Autoscaling",
+    "url": "https://medium.com/@senthil262006/day-16-of-the-kubernetes-learning-series-horizontal-and-vertical-pod-autoscaling-932466aec34c?source=rss------devops-5",
+    "summary": "Learn how Kubernetes scales Pod replicas and adjusts container resources using simple NGINX Deployments. Continue reading on Medium »",
+    "published": "2026-10-05T19:43:57"
+  },
+  {
+    "topic": "Kubernetes",
+    "title": "Day 16 of the Kubernetes Learning Series: Horizontal and Vertical Pod Autoscaling",
+    "url": "https://medium.com/@senthil262006/day-16-of-the-kubernetes-learning-series-horizontal-and-vertical-pod-autoscaling-932466aec34c?source=rss------kubernetes-5",
+    "summary": "Learn how Kubernetes scales Pod replicas and adjusts container resources using simple NGINX Deployments. Continue reading on Medium »",
+    "published": "2026-10-05T19:43:57"
+  },
+  {
+    "topic": "Kubernetes",
+    "title": "Top 15 Kubernetes Interview Questions and Answers (2026)",
+    "url": "https://medium.com/beyond-localhost/top-15-kubernetes-interview-questions-and-answers-2026-835734b7d201?source=rss------kubernetes-5",
+    "summary": "Kubernetes shows up in almost every DevOps, cloud and backend job description today. Yet most people freeze when the interviewer asks a… Continue reading on Beyond Localhost »",
+    "published": "2026-10-05T19:23:29"
+  },
+  {
+    "topic": "Kubernetes",
+    "title": "Every Hypervisor Says AI. Only Three Can Show It",
+    "url": "https://medium.com/@PlanB./every-hypervisor-says-ai-only-three-can-show-it-dd950e46d1bc?source=rss------kubernetes-5",
+    "summary": "15 virtualization platforms scored on the AI they have actually shipped, and on what became of every AI announcement since 2023. Continue reading on Medium »",
+    "published": "2026-10-05T19:16:03"
+  },
+  {
+    "topic": "Kubernetes",
+    "title": "KEDA Hands-on: Autoscaling Kubernetes Workloads Using AWS SQS",
+    "url": "https://medium.com/@anishbhatk/keda-hands-on-autoscaling-kubernetes-workloads-using-aws-sqs-4780de85252a?source=rss------kubernetes-5",
+    "summary": "In my last blog, I covered Kubernetes Event-driven Autoscaling (KEDA), its objectives, use cases, and why it can be useful for… Continue reading on Medium »",
+    "published": "2026-10-05T18:39:03"
+  },
+  {
+    "topic": "Kubernetes",
+    "title": "Notre plateforme était solide. Le projet est parti sur AWS.",
+    "url": "https://medium.com/@yayi.patrick/notre-plateforme-%C3%A9tait-solide-le-projet-est-parti-sur-aws-e9bbc3c3d39d?source=rss------kubernetes-5",
+    "summary": "Ce qu’un échec d’adoption nous a appris sur l’ingénierie de plateforme, le golden path et la mentalité des équipes de développement. Continue reading on Medium »",
+    "published": "2026-10-05T17:58:52"
+  },
+  {
+    "topic": "Cybersecurity",
+    "title": "AI attackers will appreciate your technology budget savings",
+    "url": "https://medium.com/@hemlockconsulting/ai-attackers-will-appreciate-your-technology-budget-savings-9d742059e28d?source=rss------cybersecurity-5",
+    "summary": "If you think attackers aren’t looking at the capabilities that AI vendors’ security failures expose, you’re an idiot. Criminals have every… Continue reading on Medium »",
+    "published": "2026-10-05T20:49:43"
+  },
+  {
+    "topic": "Cybersecurity",
+    "title": "From Feeling Lost to My First Cybersecurity Milestone",
+    "url": "https://medium.com/@murtazaoggy1/from-feeling-lost-to-my-first-cybersecurity-milestone-e47756593d26?source=rss------cybersecurity-5",
+    "summary": "A few months ago, I didn’t know what career path to choose. I had the drive to build something for myself, but no clear direction — until… Continue reading on Medium »",
+    "published": "2026-10-05T20:23:28"
+  },
+  {
+    "topic": "Cybersecurity",
+    "title": "Practical Malware Analysis — Lab 1–1: Basic Static Analysis Writeup",
+    "url": "https://medium.com/@ma.ahmed.dev/practical-malware-analysis-lab-1-1-basic-static-analysis-writeup-6ddbfc327091?source=rss------cybersecurity-5",
+    "summary": "A basic static analysis of Lab 1-1 from Practical Malware Analysis book covering imports, strings, compilation details and IOCs Continue reading on Medium »",
+    "published": "2026-10-05T20:15:36"
+  },
+  {
+    "topic": "Cybersecurity",
+    "title": "Hack Your Company So Others Can’t",
+    "url": "https://medium.com/@mopersonalcc/hack-your-company-so-others-cant-3e96762cf10f?source=rss------cybersecurity-5",
+    "summary": "While probing a smart-lock system for a high-security warehouse test, the tester’s laptop intercepts a local Wi-Fi handshake containing a… Continue reading on Medium »",
+    "published": "2026-10-05T20:13:47"
+  },
+  {
+    "topic": "Cybersecurity",
+    "title": "Forty-Eight Days: How a Guess About American Water Became a Fact",
+    "url": "https://blastwaveinc.medium.com/forty-eight-days-how-a-guess-about-american-water-became-a-fact-123257b014b5?source=rss------cybersecurity-5",
+    "summary": "On 3 October 2024, the largest regulated water utility in the United States found unauthorized activity on its corporate network and took… Continue reading on Medium »",
+    "published": "2026-10-05T20:12:34"
+  },
+  {
+    "topic": "Data Science",
+    "title": "Cal Poly Baseball Analytics 2026–27",
+    "url": "https://medium.com/@cpbsbanalytics/cal-poly-baseball-analytics-2026-27-06933479dd57?source=rss------data_science-5",
+    "summary": "This marks our first post as Cal Poly Baseball Analytics! Continue reading on Medium »",
+    "published": "2026-10-05T20:22:12"
+  },
+  {
+    "topic": "Data Science",
+    "title": "The most overrated and underrated supplements, according to 144,221 people who took them",
+    "url": "https://medium.com/@victorjrfrunze/the-most-overrated-and-underrated-supplements-according-to-144-221-people-who-took-them-1d2d9c57f70a?source=rss------data_science-5",
+    "summary": "What thousands of first-hand reports say — and where they disagree with the clinical research Continue reading on Medium »",
+    "published": "2026-10-05T20:04:29"
+  },
+  {
+    "topic": "Data Science",
+    "title": "Ransomware Took a Breather in 2024. In 2026, It’s Back With a Vengeance — and a Bigger Bill.",
+    "url": "https://personalfinancewealthinvesting.medium.com/ransomware-took-a-breather-in-2024-in-2026-its-back-with-a-vengeance-and-a-bigger-bill-6a48b9907196?source=rss------data_science-5",
+    "summary": "Photo by Mike Cox on Unsplash Continue reading on Medium »",
+    "published": "2026-10-05T20:02:47"
+  },
+  {
+    "topic": "Data Science",
+    "title": "Modeling Temporality in RDF: 7 Questions About Time",
+    "url": "https://medium.com/knowledge-driven-business/modeling-temporality-in-rdf-7-questions-about-time-48c429ce7daf?source=rss------data_science-5",
+    "summary": "All good knowledge or data models usually support temporality (only if it is not a pure classification model). Life is dynamic… Continue reading on Knowledge-Driven Business »",
+    "published": "2026-10-05T19:55:48"
+  },
+  {
+    "topic": "Data Science",
+    "title": "Kira A Star Wars Story",
+    "url": "https://medium.com/@chloemoretz1976/kira-a-star-wars-story-b8271abe0e7c?source=rss------data_science-5",
+    "summary": "This is a self contained fan fiction story and doesn’t follow directly with the Kira story Continue reading on Medium »",
+    "published": "2026-10-05T19:45:17"
+  },
+  {
+    "topic": "Open Source",
+    "title": "A 125-Billion-Parameter AI Model Now runs on a Gaming GPU.",
+    "url": "https://medium.com/@bhavnani.anish/a-125-billion-parameter-ai-model-now-runs-on-a-gaming-gpu-b55052261d69?source=rss------open_source-5",
+    "summary": "An open source engine called Strata just fit a frontier-sized model onto a card you can buy at an electronics store. Continue reading on Medium »",
+    "published": "2026-10-05T20:10:32"
+  },
+  {
+    "topic": "Open Source",
+    "title": "I Built a Screenshot Tool for Linux Wayland Because My Workflow Broke",
+    "url": "https://bitwiseor.medium.com/i-built-a-screenshot-tool-for-linux-wayland-because-my-workflow-broke-3b093ca8eeb4?source=rss------open_source-5",
+    "summary": "I use screenshots constantly. Continue reading on Medium »",
+    "published": "2026-10-05T19:52:41"
+  },
+  {
+    "topic": "Open Source",
+    "title": "Your AI Designed It. Now Let Your Coding Agent Build It.",
+    "url": "https://medium.com/open-intelligence/your-ai-designed-it-now-let-your-coding-agent-build-it-e11be40c4f1f?source=rss------open_source-5",
+    "summary": "How Open Claude Design connects Claude Design directly to the coding agents that turn visual ideas into working software Continue reading on Open Intelligence »",
+    "published": "2026-10-05T19:51:29"
+  },
+  {
+    "topic": "Open Source",
+    "title": "I Built a Chrome Extension That Cross-Posts Between X and Threads Automatically",
+    "url": "https://codesbyshivam.medium.com/i-built-a-chrome-extension-that-cross-posts-between-x-and-threads-automatically-279212525e37?source=rss------open_source-5",
+    "summary": "I got tired of writing the same thing twice. Continue reading on Medium »",
+    "published": "2026-10-05T19:15:10"
+  },
+  {
+    "topic": "Open Source",
+    "title": "Mistral hors ligne : quand le tokenizer est sur le disque mais introuvable",
+    "url": "https://medium.com/@ZKHCHICHE/mistral-hors-ligne-quand-le-tokenizer-est-sur-le-disque-mais-introuvable-b6d30b0bb78a?source=rss------open_source-5",
+    "summary": "Un serveur d’inférence isolé d’Internet. Un disque dédié aux modèles. Le tokenizer de Mistral téléchargé à l’avance, bien rangé dans son… Continue reading on Medium »",
+    "published": "2026-10-05T19:04:53"
+  },
+  {
+    "topic": "Machine Learning",
+    "title": "I Built a Mini GPT from Scratch in PyTorch —I",
+    "url": "https://medium.com/@ankitraj765489/i-built-a-mini-gpt-from-scratch-in-pytorch-heres-everything-i-learned-ea42494decb0?source=rss------machine_learning-5",
+    "summary": "Demystifying tokenization, causal self-attention, residual streams, and autoregressive generation without relying on black-box libraries. Continue reading on Medium »",
+    "published": "2026-10-05T20:21:16"
+  },
+  {
+    "topic": "Machine Learning",
+    "title": "Introduction to Machine Learning",
+    "url": "https://medium.com/@tahahassan699/introduction-to-machine-learning-4f59951f70ef?source=rss------machine_learning-5",
+    "summary": "Machine Learning Basics Continue reading on Medium »",
+    "published": "2026-10-05T20:17:54"
+  },
+  {
+    "topic": "Machine Learning",
+    "title": "A 125-Billion-Parameter AI Model Now runs on a Gaming GPU.",
+    "url": "https://medium.com/@bhavnani.anish/a-125-billion-parameter-ai-model-now-runs-on-a-gaming-gpu-b55052261d69?source=rss------machine_learning-5",
+    "summary": "An open source engine called Strata just fit a frontier-sized model onto a card you can buy at an electronics store. Continue reading on Medium »",
+    "published": "2026-10-05T20:10:32"
+  },
+  {
+    "topic": "Machine Learning",
+    "title": "Rounding as the Limit of a Smooth Flow",
+    "url": "https://medium.com/@ratwolf/rounding-as-the-limit-of-a-smooth-flow-dc0c22fb9072?source=rss------machine_learning-5",
+    "summary": "An exactly solvable flow takes the real line to the integers through smooth bijections, and shows exactly how, and how slowly… Continue reading on Medium »",
+    "published": "2026-10-05T20:04:02"
+  },
+  {
+    "topic": "Machine Learning",
+    "title": "Your LLM Isn’t Lying. It’s Doing Exactly What You Built It to Do.",
+    "url": "https://medium.com/@nirav.r.vaghasiya/your-llm-isnt-lying-it-s-doing-exactly-what-you-built-it-to-do-d5ec3498e99a?source=rss------machine_learning-5",
+    "summary": "Why hallucination is the mechanism, not the malfunction, and the five things that actually reduce it. Continue reading on Medium »",
+    "published": "2026-10-05T19:57:47"
+  },
+  {
+    "topic": "Prompt Engineering",
+    "title": "Kurallar Kazalardan Doğar",
+    "url": "https://medium.com/@ynsmrttr/kurallar-kazalardan-do%C4%9Far-a2fd7c3ea297?source=rss------prompt_engineering-5",
+    "summary": "Yapay zekaya yazdığım talimatları budarken öğrendiklerim Continue reading on Medium »",
+    "published": "2026-10-05T20:09:52"
+  },
+  {
+    "topic": "Prompt Engineering",
+    "title": "How to Keep an AI Style Library From Becoming a Prompt Graveyard",
+    "url": "https://medium.com/chatgpt-beyond/how-to-keep-an-ai-style-library-from-becoming-a-prompt-graveyard-86ef76709c8a?source=rss------prompt_engineering-5",
+    "summary": "A useful creative library needs rules for what gets saved, revised, and turned into a new variation. Continue reading on ChatGPT & Beyond »",
+    "published": "2026-10-05T18:52:28"
+  },
+  {
+    "topic": "Prompt Engineering",
+    "title": "Teaching LLMs to Tune Momentum Portfolios: An Experimental Iteration Journey",
+    "url": "https://janelleturing.medium.com/teaching-llms-to-tune-momentum-portfolios-an-experimental-iteration-journey-ecfbe8f9c62d?source=rss------prompt_engineering-5",
+    "summary": "Continue reading on Medium »",
+    "published": "2026-10-05T18:39:05"
+  },
+  {
+    "topic": "Prompt Engineering",
+    "title": "10 ChatGPT Prompts That Turn One Idea Into a Full Week of Content",
+    "url": "https://medium.com/@bhatttiii86/10-chatgpt-prompts-that-turn-one-idea-into-a-full-week-of-content-54674230931d?source=rss------prompt_engineering-5",
+    "summary": "A single idea holds more content than you think. You just need a process to dig it out. Continue reading on Medium »",
+    "published": "2026-10-05T17:43:08"
+  },
+  {
+    "topic": "Prompt Engineering",
+    "title": "10 ChatGPT Prompts for the Moment You Reread Something You Wrote and Can’t Tell If It’s Good",
+    "url": "https://ai.plainenglish.io/10-chatgpt-prompts-for-the-moment-you-reread-something-you-wrote-and-cant-tell-if-it-s-good-db70a81b065b?source=rss------prompt_engineering-5",
+    "summary": "A practical set of prompts for turning a vague “something feels off” into specific, fixable feedback. Continue reading on Artificial Intelligence in Plain English »",
+    "published": "2026-10-05T17:27:55"
+  },
+  {
+    "topic": "Robotics",
+    "title": "The Dawn of Next-Gen Automation: Robotic Engineering in 2026",
+    "url": "https://medium.com/@epitomizerr/the-dawn-of-next-gen-automation-robotic-engineering-in-2026-76ae9c363fef?source=rss------robotics-5",
+    "summary": "The landscape of robotic engineering in 2026 has shifted from experimental science fiction to an omnipresent reality, fundamentally… Continue reading on Medium »",
+    "published": "2026-10-05T20:52:29"
+  },
+  {
+    "topic": "Robotics",
+    "title": "The Convergent Evolution Paradox",
+    "url": "https://medium.com/illumination/the-convergent-evolution-paradox-e9b13ecc9199?source=rss------robotics-5",
+    "summary": "229 meters above Shibuya, I started wondering if AI will need our shape. An hour later, I was trying to grow four legs. Continue reading on ILLUMINATION »",
+    "published": "2026-10-05T18:08:26"
+  },
+  {
+    "topic": "Robotics",
+    "title": "More Than a Teacher: The Story of Saidomilkhon Saidabkarov",
+    "url": "https://medium.com/@ulbogankaramatdinova/more-than-a-teacher-the-story-of-saidomilkhon-saidabkarov-45cce6f36d21?source=rss------robotics-5",
+    "summary": "Every person’s story begins somewhere. For Saidomilkhon Saidabkarov, that story began on June 26, 2006, in Piskent district, Tashkent… Continue reading on Medium »",
+    "published": "2026-10-05T17:52:50"
+  },
+  {
+    "topic": "Robotics",
+    "title": "From Automation to Autonomy: 8 Trends Reshaping Smart Warehouses and Manufacturing",
+    "url": "https://medium.com/@stchowdhury11/from-automation-to-autonomy-8-trends-reshaping-smart-warehouses-and-manufacturing-772a462c2b74?source=rss------robotics-5",
+    "summary": "How AI, robotics, computer vision, digital twins, and intelligent systems are reshaping the warehouses and factories of 2026. Continue reading on Medium »",
+    "published": "2026-10-05T17:34:20"
+  },
+  {
+    "topic": "Robotics",
+    "title": "Why Hospital Robots Matter Now — and My Vision for POA Care",
+    "url": "https://medium.com/@ahmadbin7/why-hospital-robots-matter-now-and-my-vision-for-poa-care-319de8b8168d?source=rss------robotics-5",
+    "summary": "What excites me most about robotics is the possibility of building a machine that gives people time back when that time matters. I became… Continue reading on Medium »",
+    "published": "2026-10-05T17:13:04"
+  },
+  {
+    "topic": "Startup",
+    "title": "Top 4 UGC Platform for Microcreators in 2026(Compared)",
+    "url": "https://medium.com/@fatuyigabriel/top-4-ugc-platform-for-microcreators-in-2026-compared-7b3262bdf31b?source=rss------startup-5",
+    "summary": "A detailed comparison of collabstr, insense, Trend.io and Findcollabs on pricing,offer,workflows, and payment protection. Continue reading on Medium »",
+    "published": "2026-10-05T20:50:13"
+  },
+  {
+    "topic": "Startup",
+    "title": "“The Math Doesn’t Work”: Michael Dermer on Founder Loneliness, the 2008 Crisis, and Surviving AI",
+    "url": "https://medium.com/@medfoxx35/the-math-doesnt-work-michael-dermer-on-founder-loneliness-the-2008-crisis-and-surviving-ai-e90435cdd1f9?source=rss------startup-5",
+    "summary": "This article was developed with AI assistance from the supplied transcript of Michael Dermer’s Through The Valley interview. Direct… Continue reading on Medium »",
+    "published": "2026-10-05T20:50:13"
+  },
+  {
+    "topic": "Startup",
+    "title": "Your Business Can Be Profitable and Still Die. Here’s How.",
+    "url": "https://medium.com/@kalpiprasad/your-business-can-be-profitable-and-still-die-heres-how-a3f8ce082a79?source=rss------startup-5",
+    "summary": "Profit and cash aren’t the same thing, and the gap between them kills more businesses than unprofitability ever does. A company can be… Continue reading on Medium »",
+    "published": "2026-10-05T20:41:01"
+  },
+  {
+    "topic": "Startup",
+    "title": "Meet the Impact Studio’s Fall 2026 Cohort!",
+    "url": "https://medium.com/ross-impact-studio/meet-the-impact-studios-fall-2026-cohort-ce360b739995?source=rss------startup-5",
+    "summary": "Every semester, the Impact Studio has the opportunity to accept a new cohort of the brightest and best entrepreneurs at the University of… Continue reading on +Impact Studio at Michigan Ross »",
+    "published": "2026-10-05T20:23:56"
+  },
+  {
+    "topic": "Startup",
+    "title": "# The Mathematics of Order-Book Depth: Why Most Arbitrage Formulas Are Flawed",
+    "url": "https://medium.com/@londowww/the-mathematics-of-order-book-depth-why-most-arbitrage-formulas-are-flawed-0f72b09952e5?source=rss------startup-5",
+    "summary": "By Serhii Rohovskyi Founder & Lead Systems Architect at CWG Chain Continue reading on Medium »",
+    "published": "2026-10-05T20:01:58"
+  },
+  {
+    "topic": "Venture Capital",
+    "title": "How to Value Your Startup Before You Raise",
+    "url": "https://medium.com/@tonylaunchcapital/how-to-value-your-startup-before-you-raise-73a3e60cc8d2?source=rss------venture_capital-5",
+    "summary": "The short answer: There is no single correct valuation for a startup. Value is what you and an informed investor agree on, based on your… Continue reading on Medium »",
+    "published": "2026-10-05T19:35:02"
+  },
+  {
+    "topic": "Venture Capital",
+    "title": "Masawa Minute 159",
+    "url": "https://medium.com/masawa/masawa-minute-159-bdbbfec4f3a7?source=rss------venture_capital-5",
+    "summary": "A Tenth of the Price: What Headspace’s Sale Means for Mental Health Value Continue reading on Masawa »",
+    "published": "2026-10-05T17:21:05"
+  },
+  {
+    "topic": "Venture Capital",
+    "title": "130 Slides in 10 Days: What an AGM Presentation Agency Actually Handles",
+    "url": "https://mideahubllc.medium.com/130-slides-in-10-days-what-an-agm-presentation-agency-actually-handles-f00b736bdeb2?source=rss------venture_capital-5",
+    "summary": "The fund owns the numbers. The agency owns how a hundred slides from ten people become one deck. Continue reading on Medium »",
+    "published": "2026-10-05T16:17:31"
+  },
+  {
+    "topic": "Venture Capital",
+    "title": "Why Investors Dump Your AI-Generated Pitch Deck Straight Into the Trash",
+    "url": "https://ehandbook.com/why-investors-dump-your-ai-generated-pitch-deck-straight-into-the-trash-1f6e2cb30fd8?source=rss------venture_capital-5",
+    "summary": "It’s not because it’s AI-generated. It’s because it misses the whole point of a pitch deck. Continue reading on Entrepreneurship Handbook »",
+    "published": "2026-10-05T15:31:02"
+  },
+  {
+    "topic": "Venture Capital",
+    "title": "The Outcome Nobody Wrote Down",
+    "url": "https://medium.com/@topper440/the-outcome-nobody-wrote-down-56585da7f4c4?source=rss------venture_capital-5",
+    "summary": "Tom Opper | RevOpx LLC Continue reading on Medium »",
+    "published": "2026-10-05T15:24:35"
+  },
+  {
+    "topic": "Entrepreneurship",
+    "title": "Marc Lou Made $3 Million From 36 Startups. Here's What He Did Differently.",
+    "url": "https://medium.com/@Hii_Aniket/marc-lou-made-3-million-from-36-startups-heres-what-he-did-differently-f039075c42f1?source=rss------entrepreneurship-5",
+    "summary": "Continue reading on Medium »",
+    "published": "2026-10-05T20:51:34"
+  },
+  {
+    "topic": "Entrepreneurship",
+    "title": "“The Math Doesn’t Work”: Michael Dermer on Founder Loneliness, the 2008 Crisis, and Surviving AI",
+    "url": "https://medium.com/@medfoxx35/the-math-doesnt-work-michael-dermer-on-founder-loneliness-the-2008-crisis-and-surviving-ai-e90435cdd1f9?source=rss------entrepreneurship-5",
+    "summary": "This article was developed with AI assistance from the supplied transcript of Michael Dermer’s Through The Valley interview. Direct… Continue reading on Medium »",
+    "published": "2026-10-05T20:50:13"
+  },
+  {
+    "topic": "Entrepreneurship",
+    "title": "Your Business Can Be Profitable and Still Die. Here’s How.",
+    "url": "https://medium.com/@kalpiprasad/your-business-can-be-profitable-and-still-die-heres-how-a3f8ce082a79?source=rss------entrepreneurship-5",
+    "summary": "Profit and cash aren’t the same thing, and the gap between them kills more businesses than unprofitability ever does. A company can be… Continue reading on Medium »",
+    "published": "2026-10-05T20:41:01"
+  },
+  {
+    "topic": "Entrepreneurship",
+    "title": "The Job Is Finished. So Why Are You Still Chasing Your Money?",
+    "url": "https://medium.com/@henryjyoder/the-job-is-finished-so-why-are-you-still-chasing-your-money-a855a29268ba?source=rss------entrepreneurship-5",
+    "summary": "The uncomfortable extra job that comes with running a solo service business. Continue reading on Medium »",
+    "published": "2026-10-05T20:29:09"
+  },
+  {
+    "topic": "Entrepreneurship",
+    "title": "Meet the Impact Studio’s Fall 2026 Cohort!",
+    "url": "https://medium.com/ross-impact-studio/meet-the-impact-studios-fall-2026-cohort-ce360b739995?source=rss------entrepreneurship-5",
+    "summary": "Every semester, the Impact Studio has the opportunity to accept a new cohort of the brightest and best entrepreneurs at the University of… Continue reading on +Impact Studio at Michigan Ross »",
+    "published": "2026-10-05T20:23:56"
+  },
+  {
+    "topic": "Personal Finance",
+    "title": "Investing your $5,000 Trump Dividend",
+    "url": "https://jeffreydenny77.medium.com/investing-your-5-000-trump-dividend-20c405d47744?source=rss------personal_finance-5",
+    "summary": "The check’s in the mail Continue reading on Medium »",
+    "published": "2026-10-05T20:42:52"
+  },
+  {
+    "topic": "Personal Finance",
+    "title": "Does Pet Insurance Cover Dental Cleaning? [2026 Cost & Guide]",
+    "url": "https://medium.com/@hajarkamily9/does-pet-insurance-cover-dental-cleaning-2026-cost-guide-4ac9b1871250?source=rss------personal_finance-5",
+    "summary": "I learned the hard way: routine cleaning isn't covered, but this invoice wording got my friend 70% back on an $1,100 bill` Continue reading on Medium »",
+    "published": "2026-10-05T20:30:29"
+  },
+  {
+    "topic": "Personal Finance",
+    "title": "A Side Hustle Should Solve a Financial Problem, Not Become Your Personality",
+    "url": "https://medium.com/@anthony.brierly/a-side-hustle-should-solve-a-financial-problem-not-become-your-personality-a0fd1a07c2cf?source=rss------personal_finance-5",
+    "summary": "How to choose extra work based on the money you actually need, set limits on your time, and know when the hustle has done its job. Continue reading on Medium »",
+    "published": "2026-10-05T20:16:01"
+  },
+  {
+    "topic": "Personal Finance",
+    "title": "Required minimum distributions (RMDs) explained: ages, amounts, and how to plan for them",
+    "url": "https://medium.com/@huangherbert/required-minimum-distributions-rmds-explained-ages-amounts-and-how-to-plan-for-them-7d855a2f6746?source=rss------personal_finance-5",
+    "summary": "A traditional IRA or 401(k) lets you defer tax, not avoid it. Continue reading on Medium »",
+    "published": "2026-10-05T19:57:27"
+  },
+  {
+    "topic": "Personal Finance",
+    "title": "A Remote Way for Financial Professionals and Lawyers to Earn From Their Expertise",
+    "url": "https://medium.com/@trujillojackson/a-remote-way-for-financial-professionals-and-lawyers-to-earn-from-their-expertise-da843c70ddb4?source=rss------personal_finance-5",
+    "summary": "If you work in personal finance or law, you’ve probably spent years learning things that most people don’t understand very well. Continue reading on Medium »",
+    "published": "2026-10-05T19:33:04"
+  },
+  {
+    "topic": "Ethereum",
+    "title": "Dollar Hits 18-Month High as Banks Sue to Keep Crypto Out of the System",
+    "url": "https://medium.com/@shival.patel/dollar-hits-18-month-high-as-banks-sue-to-keep-crypto-out-of-the-system-1ed0b6f14095?source=rss------ethereum-5",
+    "summary": "The U.S. dollar has got to be that friend who disappears for a while, then shows back up like they never left, and somehow everyone just…… Continue reading on Medium »",
+    "published": "2026-10-05T19:35:55"
+  },
+  {
+    "topic": "Ethereum",
+    "title": "Crypto Customs That Make Absolutely No Sense Until Someone Explains Them",
+    "url": "https://medium.com/coinmonks/crypto-customs-that-make-absolutely-no-sense-until-someone-explains-them-845edab1d305?source=rss------ethereum-5",
+    "summary": "Six strange crypto habit that tells you about your own money. Continue reading on Coinmonks »",
+    "published": "2026-10-05T13:46:49"
+  },
+  {
+    "topic": "Ethereum",
+    "title": "I Compared 19 Cryptos. One Token’s Forecast: −29% at One Year, +112% at Five.",
+    "url": "https://medium.com/coinmonks/i-compared-19-cryptos-one-tokens-forecast-29-at-one-year-112-at-five-78fcfeda0741?source=rss------ethereum-5",
+    "summary": "One year favors Ethereum. Five years favors Bitcoin. Across 19 crypto assets, one token turns a −29% forecast into +112%. Continue reading on Coinmonks »",
+    "published": "2026-10-05T13:43:37"
+  },
+  {
+    "topic": "Ethereum",
+    "title": "Bitcoin vs Altcoins: Is This the Bottom of the Cycle?",
+    "url": "https://medium.com/coinmonks/bitcoin-vs-altcoins-is-this-the-bottom-of-the-cycle-d5b21938aea7?source=rss------ethereum-5",
+    "summary": "A famous trader circled today as the bottom. I checked two altcoin manias and one perfect bottom to see who really won. Getting the bottom… Continue reading on Coinmonks »",
+    "published": "2026-10-05T13:40:51"
+  },
+  {
+    "topic": "Ethereum",
+    "title": "Aligning With DHN’s New Supply Era",
+    "url": "https://dohrnii.medium.com/aligning-with-dhns-new-supply-era-d9018fa6b46a?source=rss------ethereum-5",
+    "summary": "Following the permanent burn of 300,000,000 DHN, Dohrnii Labs reduced the original maximum supply by 80.65% — establishing a significantly… Continue reading on Medium »",
+    "published": "2026-10-05T13:36:07"
+  }
+]
